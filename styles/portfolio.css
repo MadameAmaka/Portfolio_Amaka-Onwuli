@@ -19,7 +19,7 @@ h6 {
   font-weight: bold;
 }
 h1 {
-  font-size: 85px;
+  font-size: 65px;
   line-height: 1.5;
 }
 
@@ -64,6 +64,10 @@ nav a{
 
 nav a:hover,nav li.active a{
     color: var(--branding-color);
+}
+
+h3 a{
+  font-size: 16px;
 }
 
 .intro {
