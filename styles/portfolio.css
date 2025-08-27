@@ -41,6 +41,11 @@ p {
     max-height: 150px;
 }
 
+small-logo{
+  max-height: 50px;
+}
+
+
 nav{
     padding: 30px;
 }
