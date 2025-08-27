@@ -197,7 +197,7 @@ footer .social-links a:hover{
   .intro {
     padding: 60px 20px;
   }
-  .content-section {
+  .content-section p{
     text-align:justify;
     padding: 0;
   }
