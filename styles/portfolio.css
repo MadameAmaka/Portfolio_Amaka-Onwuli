@@ -185,10 +185,10 @@ footer .social-links a:hover{
 @media (max-width: 800px) {
   h1 {
     font-size: 45px;
-    line-height: 40px;
+    line-height: 35px;
   }
   h2 {
-    font-size: 40px;
+    font-size: 35px;
   }
 
   h4{
@@ -198,7 +198,7 @@ footer .social-links a:hover{
     padding: 60px 20px;
   }
   .content-section {
-    text-align: center;
+    text-align:justify;
     padding: 0;
   }
   .project-description {
